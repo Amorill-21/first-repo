@@ -1,3 +1,3 @@
-first line
+int main(){
 
-correct line
+}
